@@ -1,2 +1,2 @@
 # Programiranje-III
-Rješeni ispitni zadaci iz predmeta Programiranje III
+Riješeni ispitni zadaci iz predmeta Programiranje III
